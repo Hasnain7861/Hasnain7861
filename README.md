@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Hasnain Mucklai!
-I'm a Software Engineering student at San Jose State University with a passion for building software that makes a positive impact on people’s lives. I love learning, staying curious, and constantly exploring new ways to solve real-world problems through technology. Whether I’m working on AI-powered tools, web development, or backend systems, I enjoy every part of the process, from brainstorming ideas to seeing them come to life.
+I'm a Software Engineering student at San Jose State University with a passion for building software that makes a positive impact on people’s lives. I love learning, staying curious, and constantly exploring new ways to solve real-world problems through technology.
 
 Right now, I’m involved in projects that range from AI-driven solutions to frontend web experiences. My dream is to create software that truly helps people, making their lives easier or more connected in meaningful ways. I believe technology has the power to drive change, and I want to be part of that journey.
 
