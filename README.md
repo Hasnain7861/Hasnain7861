@@ -40,7 +40,6 @@ Right now, I’m involved in projects that range from AI-driven solutions to fro
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) 
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) 
   ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat) 
-  ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-323232?logo=sqlalchemy&logoColor=white&style=flat) 
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
 
   ## 🌐 Connect With Me
